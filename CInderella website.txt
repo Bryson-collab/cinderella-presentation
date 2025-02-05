@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grimm's Cinderella</title>
+    <style>
+        body {
+            font-family: 'Garamond', serif;
+            background-color: #f4ebe1;
+            color: #4a2c2a;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #8b0000;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .section {
+            margin-top: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Grimm's Fairy Tale: Cinderella</h1>
+        <img src="cinderella.jpg" alt="Cinderella Illustration">
+        
+        <div class="section">
+            <h2>Introduction</h2>
+            <p>The story of Cinderella as told by the Brothers Grimm is much darker than the popular Disney adaptation. It features magical elements, cruelty, and justice.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Summary</h2>
+            <p>Cinderella is mistreated by her stepmother and stepsisters. With the help of a magical hazel tree and birds, she attends the royal ball. Unlike in Disney’s version, there is no fairy godmother.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Differences from Disney</h2>
+            <p>In Grimm’s version, the stepsisters cut off parts of their feet to fit the slipper, and in the end, their eyes are pecked out by birds as punishment.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Themes & Symbolism</h2>
+            <p>The story explores themes of justice, transformation, and fate. The magical elements symbolize divine intervention and morality.</p>
+        </div>
+    </div>
+</body>
+</html>
